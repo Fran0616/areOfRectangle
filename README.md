@@ -7,3 +7,6 @@ Algorithm
 2. Ask the user to input the length of the rectangle 
 3. Multiply the width to the height to get the are of the rectangle
 4. Display the result to the user. 
+
+Flowchart
+= 
